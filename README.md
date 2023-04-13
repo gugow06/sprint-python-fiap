@@ -30,3 +30,9 @@ Usamos fstring para formatar o resultado, o deixando com 2 casas decimais.
 3 - Usuário informa a quantidade de oxigênio que será produzida em determinado momento(tempo em horas).
 4 - O programa apresentará o resultado da equação.
 
+----------------------------------
+
+## Propósito do programa
+
+Objetivo de calcular a função "𝑄(𝑡) = 𝑄𝑚 ∙ (1 − 𝑒^−𝑟𝑡)": Utilizada para estimar a quantidade de oxigênio produzido em diferentes
+momentos durante o ciclo de cultivo de fitoplâncton em um aquário de 50cm².
